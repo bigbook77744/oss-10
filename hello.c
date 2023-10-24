@@ -1,4 +1,7 @@
 #include<stdio.h>
 int main(){
-  printf("hello world!");
-  return 0;}
+ int a,b;
+ int c=a+b;
+ printf("%d",c);
+
+return 0;}
